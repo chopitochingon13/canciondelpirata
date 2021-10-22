@@ -1,0 +1,59 @@
+@font-face 
+{
+      font-family: caligrafia;
+      src: url("../fonts/always\ forever.ttf");
+}
+
+@font-face 
+{
+      font-family: texto;
+      src: url("../fonts/CAROBTN_.TTF");
+}
+
+@font-face
+{
+      font-family: otra;
+      src: url("../fonts/Across\ the\ Road.ttf");
+}
+ 
+@font-face
+{
+      font-family: pim;
+      src: url("../fonts/SCRIPTIN.ttf");
+}
+
+@font-face
+{
+      font-family: pom;
+      src: url("../fonts/ChopinScript.ttf");
+}
+
+@font-face
+{
+      font-family: pum;
+      src: url("../fonts/SCRIPALT.ttf");
+}
+
+body 
+{
+      margin: 0;
+      padding: 0;
+      background-image: url("../images/fondo.jpg");
+      background-size: 40%;
+      font-family: pom;
+}
+
+#container 
+{
+      background-color: #f9b766f3;
+      width:80%;
+      padding: 20px;
+      border-radius: 80px;
+      margin: 5vh auto;
+}
+
+#poema 
+{
+      width: 300px;
+      margin: auto;
+}
